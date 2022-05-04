@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+             pair = 'ZRXETH'
+        buy_price = 0.00024966
+     exchange_buy = 'Huobi'
+    exchange_sell = 'Huobi'
+       sell_price = 0.00024859
+          proffit = 0.995714171272931
+price_binance_bid = [0.0002481, 'Binance']
+price_binance_ask = [0.0002505, 'Binance']
+  price_huobi_bid = [0.00024859, 'Huobi']
+  price_huobi_ask = [0.00024966, 'Huobi']
+             buys = [[0.0002505, 'Binance'], [0.00024966, 'Huobi']]
+            sells = [[0.0002481, 'Binance'], [0.00024859, 'Huobi']]
+         best_buy = [0.00024966, 'Huobi']
+        best_sell = [0.00024859, 'Huobi']
